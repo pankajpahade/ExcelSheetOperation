@@ -1,0 +1,12 @@
+<root>
+    <item name='org.apache.poi.ss.usermodel.Cell CELL_TYPE_NUMERIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+    <item name='org.apache.poi.ss.usermodel.Cell java.lang.String getStringCellValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.apache.poi.ss.usermodel.Workbook'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

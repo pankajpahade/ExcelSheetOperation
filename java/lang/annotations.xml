@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.RuntimeException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+    <item name='java.lang.String boolean isEmpty()'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
